@@ -2,4 +2,4 @@
 
 Here is a screenshot of the system:
 
-![System Screenshot](images/Screenshot.png)
+![System Screenshot](public/assets/img/Screenshot.png)
