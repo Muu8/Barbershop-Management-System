@@ -67,4 +67,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
 # Barbershop-Management-System
->>>>>>> dc30b3f421e945d1456cf6c7c47da6bbb640efbb
+
+
